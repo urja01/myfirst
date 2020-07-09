@@ -6,4 +6,4 @@ document.write("Hello World")
 </script>
 
 Cooments can be added with the help of // for single line comment
-
+Done
