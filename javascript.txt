@@ -1,2 +1,6 @@
 Welcome
 Let's learn Javascript
+<head>
+<script>
+document.write("Hello World")
+</script>
